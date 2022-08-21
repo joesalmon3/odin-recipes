@@ -1,0 +1,22 @@
+body {
+    background-color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+ul {
+    background-color: lightblue;
+
+}
+
+ol {
+    background-color: beige;
+}
+.myfavorite {
+   
+    font-weight: bold;
+}
