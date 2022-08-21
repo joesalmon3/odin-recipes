@@ -1,5 +1,5 @@
 body {
-    background-color: teal;
+    background-color: aqua;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -9,7 +9,7 @@ h1 {
     text-align: center;
 }
 ul {
-    background-color: lightblue;
+    background-color: rgb(22, 180, 233);
 
 }
 
@@ -18,5 +18,11 @@ ol {
 }
 .myfavorite {
    
+    font-weight: bold;
+}
+
+.seperation {
+    background-color: blue;
+    color:white;
     font-weight: bold;
 }
